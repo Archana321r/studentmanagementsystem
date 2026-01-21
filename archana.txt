@@ -1,0 +1,4 @@
+public class A{
+
+system.out.print.ln("Hello World")
+}
